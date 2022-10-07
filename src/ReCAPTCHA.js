@@ -20,7 +20,7 @@ const Recaptcha= (props) => {
   return (
     <div className="captcha">
       <ReCAPTCHA
-        sitekey="6LdqMAwiAAAAADCSKAnd9VLheBJj3oFwBpicdF4N"
+        sitekey="6Lcyx14iAAAAACE23TXwyg0KjlXhbhyuQ96lMV3Y"
         onChange={onChange}
     
       />
